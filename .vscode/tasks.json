@@ -19,6 +19,10 @@
             "type": "process",
             "args": [
                 "publish",
+                "-c",
+                "Release",
+                "-r",
+                "linux-x64",
                 "${workspaceFolder}/BlazorTestPage.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
