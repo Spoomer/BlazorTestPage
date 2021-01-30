@@ -1,0 +1,32 @@
+@page "/apiclienttest"
+@using BlazorTestPage.Api;
+@using BlazorTestPage.Models;
+<h1>Calling an API</h1>
+<button @onclick="GetStations">Hole Stationen</button>
+@if (DbStationModels != default(List<DBStationModel>))
+{
+    <table>
+        <th>ID</th>
+        <th>Name</th>
+        @foreach (var dBStation in DbStationModels)
+        {
+            <tr>
+                <td Margin="5">@dBStation.Id</td>
+                <td Margin="5">@dBStation.Name</td>
+            </tr>
+        }
+    </table>
+}
+@code {
+    private List<DBStationModel> DbStationModels;
+
+    protected override void OnInitialized()
+    {
+        DbStationModels = new List<DBStationModel>();
+    }
+    private async Task GetStations()
+    {
+        DBStationProcessor dBStationProcessor = new();
+        DbStationModels = await dBStationProcessor.GetStationDataOrDefault("a");
+    }
+}
