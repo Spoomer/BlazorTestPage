@@ -1,0 +1,633 @@
+{"Id":8000013,"Name":"Augsburg Hbf","lat":48.365444,"lon":10.885568}
+{"Id":8000001,"Name":"Aachen Hbf","lat":50.767803,"lon":6.091495}
+{"Id":8000010,"Name":"Aschaffenburg Hbf","lat":49.980554,"lon":9.143693}
+{"Id":8096009,"Name":"HAMBURG","lat":53.55711,"lon":9.997434}
+{"Id":8002549,"Name":"Hamburg Hbf","lat":53.552733,"lon":10.006909}
+{"Id":8000002,"Name":"Aalen Hbf","lat":48.84101,"lon":10.09627}
+{"Id":8000331,"Name":"Andernach","lat":50.434546,"lon":7.404837}
+{"Id":8000009,"Name":"Ansbach","lat":49.29803,"lon":10.578236}
+{"Id":8000664,"Name":"Augustfehn","lat":53.220887,"lon":7.759659}
+{"Id":8000004,"Name":"Altenbeken","lat":51.766432,"lon":8.943323}
+{"Id":8010004,"Name":"Angerm\u00FCnde","lat":53.015223,"lon":13.996357}
+{"Id":8011044,"Name":"Anklam","lat":53.856101,"lon":13.701826}
+{"Id":8000483,"Name":"Alfeld(Leine)","lat":51.981418,"lon":9.817776}
+{"Id":8011051,"Name":"Apolda","lat":51.030944,"lon":11.52614}
+{"Id":8000014,"Name":"Aulendorf","lat":47.953055,"lon":9.64405}
+{"Id":8000459,"Name":"Ainring","lat":47.815035,"lon":12.964504}
+{"Id":8002570,"Name":"Hammerau","lat":47.795879,"lon":12.94613}
+{"Id":8400058,"Name":"Amsterdam Centraal","lat":52.379191,"lon":4.899427}
+{"Id":5400019,"Name":"Usti nad Labem hl.n.","lat":50.659564,"lon":14.044728}
+{"Id":8400051,"Name":"Almelo","lat":52.357284,"lon":6.654813}
+{"Id":8400055,"Name":"Amersfoort Centraal","lat":52.153463,"lon":5.373913}
+{"Id":8400066,"Name":"Apeldoorn","lat":52.20943,"lon":5.967489}
+{"Id":8400071,"Name":"Arnhem Centraal","lat":51.98478,"lon":5.901005}
+{"Id":8100012,"Name":"Amstetten N\u00D6","lat":48.121603,"lon":14.878109}
+{"Id":8600087,"Name":"Aarhus","lat":56.150076,"lon":10.204995}
+{"Id":8100064,"Name":"Anton am Arlberg St","lat":47.127567,"lon":10.266994}
+{"Id":8704980,"Name":"Aix-en-Provence TGV","lat":43.455168,"lon":5.317227}
+{"Id":8796005,"Name":"AVIGNON (TGV)","lat":43.941304,"lon":4.805256}
+{"Id":8704918,"Name":"Avignon TGV","lat":43.921933,"lon":4.786046}
+{"Id":8300186,"Name":"Ancona","lat":43.607598,"lon":13.497798}
+{"Id":8505004,"Name":"Arth-Goldau","lat":47.049046,"lon":8.549443}
+{"Id":7896001,"Name":"ZAGREB","lat":45.807411,"lon":15.990291}
+{"Id":7400005,"Name":"Alvesta station","lat":56.898482,"lon":14.55688}
+{"Id":8011160,"Name":"Berlin Hbf","lat":52.525589,"lon":13.369549}
+{"Id":8000036,"Name":"Bielefeld Hbf","lat":52.029259,"lon":8.532723}
+{"Id":8000041,"Name":"Bochum Hbf","lat":51.478607,"lon":7.223273}
+{"Id":8000044,"Name":"Bonn Hbf","lat":50.732008,"lon":7.097136}
+{"Id":8000049,"Name":"Braunschweig Hbf","lat":52.252218,"lon":10.540293}
+{"Id":8000050,"Name":"Bremen Hbf","lat":53.083478,"lon":8.813833}
+{"Id":8001080,"Name":"Bondorf(b Herrenberg)","lat":48.523556,"lon":8.827659}
+{"Id":8013470,"Name":"Bernau(b Berlin)","lat":52.675565,"lon":13.592643}
+{"Id":8096003,"Name":"BERLIN","lat":52.520501,"lon":13.386988}
+{"Id":8010255,"Name":"Berlin Ostbahnhof","lat":52.510487,"lon":13.434684}
+{"Id":8011102,"Name":"Berlin Gesundbrunnen","lat":52.548961,"lon":13.388516}
+{"Id":8000026,"Name":"Basel Bad Bf","lat":47.567292,"lon":7.607805}
+{"Id":8000031,"Name":"Bensheim","lat":49.68133,"lon":8.616718}
+{"Id":8010404,"Name":"Berlin-Spandau","lat":52.53465,"lon":13.196902}
+{"Id":8011113,"Name":"Berlin S\u00FCdkreuz","lat":52.475043,"lon":13.365315}
+{"Id":8000055,"Name":"Bruchsal","lat":49.124619,"lon":8.589651}
+{"Id":8010050,"Name":"Bitterfeld","lat":51.622857,"lon":12.316849}
+{"Id":8000774,"Name":"Baden-Baden","lat":48.790329,"lon":8.190827}
+{"Id":8000025,"Name":"Bamberg","lat":49.900757,"lon":10.899493}
+{"Id":8000020,"Name":"Bad Hersfeld","lat":50.869632,"lon":9.71618}
+{"Id":8000039,"Name":"Bingen(Rhein) Hbf","lat":49.968725,"lon":7.884259}
+{"Id":8010060,"Name":"Brandenburg Hbf","lat":52.400558,"lon":12.566138}
+{"Id":8000045,"Name":"Boppard Hbf","lat":50.231416,"lon":7.586105}
+{"Id":8000885,"Name":"Berchtesgaden Hbf","lat":47.626684,"lon":12.999058}
+{"Id":8010022,"Name":"Schandau Bad","lat":50.919289,"lon":14.137542}
+{"Id":8000732,"Name":"OEYN","lat":52.205394,"lon":8.79652}
+{"Id":8000879,"Name":"Bad Bentheim","lat":52.309848,"lon":7.158542}
+{"Id":8000770,"Name":"Zwischenahn Bad","lat":53.182548,"lon":8.003123}
+{"Id":8011201,"Name":"Flughafen BER - Terminal 1-2","lat":52.364808,"lon":13.511947}
+{"Id":8001055,"Name":"B\u00F6blingen","lat":48.687762,"lon":9.004126}
+{"Id":8000058,"Name":"B\u00FCchen","lat":53.474976,"lon":10.623299}
+{"Id":8010066,"Name":"B\u00FCtzow","lat":53.837115,"lon":11.99819}
+{"Id":8010033,"Name":"R\u00FCgen","lat":54.420497,"lon":13.417821}
+{"Id":8011191,"Name":"Ostseebad Binz","lat":54.40482,"lon":13.600508}
+{"Id":8000935,"Name":"Bad Bevensen","lat":53.078246,"lon":10.574137}
+{"Id":8010018,"Name":"Kleinen Bad","lat":53.766973,"lon":11.466928}
+{"Id":8000057,"Name":"Buchloe","lat":48.033725,"lon":10.716221}
+{"Id":8003330,"Name":"K\u00F6ln/Bonn Flughafen","lat":50.8789,"lon":7.119304}
+{"Id":8010403,"Name":"Berlin-Charlottenburg","lat":52.504213,"lon":13.302327}
+{"Id":8011162,"Name":"Berlin Ostkreuz","lat":52.503035,"lon":13.469104}
+{"Id":8001787,"Name":"Endorf Bad","lat":47.905062,"lon":12.301558}
+{"Id":8000029,"Name":"Bebra","lat":50.969566,"lon":9.797784}
+{"Id":8000059,"Name":"B\u00FCnde(Westf)","lat":52.202077,"lon":8.573875}
+{"Id":8001274,"Name":"Fehmarn-Burg","lat":54.443591,"lon":11.188981}
+{"Id":8010405,"Name":"Berlin Wannsee","lat":52.420973,"lon":13.179526}
+{"Id":8001082,"Name":"Bonn-Bad Godesberg","lat":50.683924,"lon":7.159558}
+{"Id":8010406,"Name":"Berlin Zoologischer Garten","lat":52.507278,"lon":13.331992}
+{"Id":8010036,"Name":"Berlin-Lichtenberg","lat":52.510137,"lon":13.496692}
+{"Id":8000718,"Name":"Krozingen Bad","lat":47.919723,"lon":7.697634}
+{"Id":8000943,"Name":"Biberach(Ri\u00DF)","lat":48.101845,"lon":9.793127}
+{"Id":8000206,"Name":"Koblenz Hbf","lat":50.350928,"lon":7.588343}
+{"Id":8000191,"Name":"Karlsruhe Hbf","lat":48.993512,"lon":8.402181}
+{"Id":8096022,"Name":"K\u00D6LN","lat":50.941312,"lon":6.967206}
+{"Id":8000207,"Name":"K\u00F6ln Hbf","lat":50.943029,"lon":6.95873}
+{"Id":8000064,"Name":"Zelle","lat":52.620452,"lon":10.062471}
+{"Id":8003368,"Name":"K\u00F6ln Messe/Deutz","lat":50.940872,"lon":6.975}
+{"Id":8010073,"Name":"Cottbus Hbf","lat":51.750953,"lon":14.324158}
+{"Id":8000067,"Name":"Crailsheim","lat":49.13787,"lon":10.064323}
+{"Id":8001338,"Name":"Coburg","lat":50.262923,"lon":10.957329}
+{"Id":8001340,"Name":"Cochem(Mosel)","lat":50.153093,"lon":7.16674}
+{"Id":8096023,"Name":"KASSEL","lat":51.315947,"lon":9.470379}
+{"Id":8000193,"Name":"Kassel Hbf","lat":51.318257,"lon":9.489499}
+{"Id":8509000,"Name":"Chur","lat":46.853081,"lon":9.528934}
+{"Id":8100085,"Name":"Klagenfurt Hbf","lat":46.615586,"lon":14.313569}
+{"Id":5100028,"Name":"Krakow Glowny","lat":50.067192,"lon":19.947423}
+{"Id":5196001,"Name":"KRAKOW","lat":50.069934,"lon":19.940546}
+{"Id":8696001,"Name":"KOEBENHAVN","lat":55.688237,"lon":12.578426}
+{"Id":5100708,"Name":"Chalupki","lat":49.925477,"lon":18.311557}
+{"Id":5400002,"Name":"Ceska Trebova","lat":49.897323,"lon":16.446808}
+{"Id":8700091,"Name":"Chalon sur Sa\u00F4ne","lat":46.781743,"lon":4.843397}
+{"Id":8300193,"Name":"Cesena","lat":44.145476,"lon":12.249511}
+{"Id":8505307,"Name":"Chiasso","lat":45.832167,"lon":9.031453}
+{"Id":8300056,"Name":"Como S. Giovanni","lat":45.808975,"lon":9.072714}
+{"Id":8300086,"Name":"Conegliano","lat":45.884664,"lon":12.299104}
+{"Id":8601242,"Name":"Koebenhavns Lufthavn st","lat":55.629609,"lon":12.649378}
+{"Id":8270280,"Name":"Cents-Hamm","lat":49.614621,"lon":6.164676}
+{"Id":8000068,"Name":"Darmstadt Hbf","lat":49.872504,"lon":8.629635}
+{"Id":8000080,"Name":"Dortmund Hbf","lat":51.517899,"lon":7.459294}
+{"Id":8010085,"Name":"Dresden Hbf","lat":51.040562,"lon":13.732039}
+{"Id":8000086,"Name":"Duisburg Hbf","lat":51.429786,"lon":6.775907}
+{"Id":8000085,"Name":"D\u00FCsseldorf Hbf","lat":51.21996,"lon":6.794317}
+{"Id":8010089,"Name":"Dresden-Neustadt","lat":51.065903,"lon":13.740704}
+{"Id":8000078,"Name":"Donauw\u00F6rth","lat":48.714028,"lon":10.771441}
+{"Id":8000082,"Name":"D\u00FCsseldorf Flughafen","lat":51.292009,"lon":6.786838}
+{"Id":8096014,"Name":"Flughafen D\u00FCsseldorf","lat":51.277707,"lon":6.767286}
+{"Id":8010077,"Name":"Dessau Hbf","lat":51.839865,"lon":12.234948}
+{"Id":8000070,"Name":"Delmenhorst","lat":53.052789,"lon":8.629761}
+{"Id":8010079,"Name":"Doberlug-Kirchhain","lat":51.620573,"lon":13.564237}
+{"Id":8001443,"Name":"Diepholz","lat":52.604775,"lon":8.380338}
+{"Id":8000084,"Name":"D\u00FCren","lat":50.809513,"lon":6.482454}
+{"Id":8000077,"Name":"Donaueschingen","lat":47.947788,"lon":8.498923}
+{"Id":5100009,"Name":"Gdansk Glowny","lat":54.355523,"lon":18.643807}
+{"Id":5100075,"Name":"Ilawa Glowna","lat":53.582253,"lon":19.573849}
+{"Id":5400003,"Name":"Decin hl.n.","lat":50.773412,"lon":14.201249}
+{"Id":8400173,"Name":"Deventer","lat":52.257432,"lon":6.160505}
+{"Id":8100098,"Name":"Dorfgastein","lat":47.238674,"lon":13.103063}
+{"Id":8400319,"Name":"Hertogenbosch","lat":51.690545,"lon":5.293721}
+{"Id":5100228,"Name":"Debica","lat":50.054419,"lon":21.405563}
+{"Id":5196007,"Name":"GDANSK","lat":54.365843,"lon":18.64396}
+{"Id":8300106,"Name":"Desenzano del Garda/Sirmione","lat":45.462666,"lon":10.536274}
+{"Id":5100061,"Name":"Tczew","lat":54.097317,"lon":18.790152}
+{"Id":8300057,"Name":"Domodossola","lat":46.115292,"lon":8.296235}
+{"Id":8100122,"Name":"Dornbirn","lat":47.417694,"lon":9.738805}
+{"Id":7900017,"Name":"Dobova","lat":45.898391,"lon":15.655182}
+{"Id":8000098,"Name":"Essen Hbf","lat":51.451351,"lon":7.014795}
+{"Id":8010101,"Name":"Erfurt Hbf","lat":50.97255,"lon":11.038502}
+{"Id":8010097,"Name":"Eisenach","lat":50.976919,"lon":10.331986}
+{"Id":8001844,"Name":"Erlangen","lat":49.595834,"lon":11.001637}
+{"Id":8001768,"Name":"Emden Hbf","lat":53.369038,"lon":7.195173}
+{"Id":8010093,"Name":"Eberswalde Hbf","lat":52.834018,"lon":13.797058}
+{"Id":8010099,"Name":"Elsterwerda","lat":51.459675,"lon":13.516432}
+{"Id":8096010,"Name":"ELSTERWERDA-","lat":51.459666,"lon":13.516828}
+{"Id":8001751,"Name":"Ellwangen","lat":48.964117,"lon":10.129683}
+{"Id":8001790,"Name":"Engen","lat":47.856349,"lon":8.772789}
+{"Id":8000090,"Name":"Eichenberg","lat":51.374826,"lon":9.921484}
+{"Id":8001767,"Name":"Emden Au\u00DFenhafen","lat":53.344471,"lon":7.186175}
+{"Id":8000101,"Name":"Eutingen im G\u00E4u","lat":48.479949,"lon":8.782236}
+{"Id":8000093,"Name":"Elze(Han)","lat":52.120149,"lon":9.746896}
+{"Id":8001839,"Name":"Erkelenz","lat":51.076564,"lon":6.321718}
+{"Id":8001833,"Name":"Rottenburg-Ergenzin.","lat":48.489532,"lon":8.80986}
+{"Id":8001920,"Name":"Esslingen(Neckar)","lat":48.738811,"lon":9.300078}
+{"Id":7400053,"Name":"Esl\u00F6v station","lat":55.836236,"lon":13.304287}
+{"Id":8000105,"Name":"Frankfurt(Main)Hbf","lat":50.107149,"lon":8.663785}
+{"Id":8000107,"Name":"Freiburg(Breisgau) Hbf","lat":47.997696,"lon":7.841174}
+{"Id":8070003,"Name":"Frankfurt(M) Flughafen Fernbf","lat":50.053169,"lon":8.570181}
+{"Id":8000281,"Name":"Frankfurt(M)Flughafen","lat":50.05121,"lon":8.570972}
+{"Id":8096021,"Name":"FRANKFURT(MAIN)","lat":50.107149,"lon":8.663785}
+{"Id":8000115,"Name":"Fulda","lat":50.554722,"lon":9.68398}
+{"Id":8000114,"Name":"F\u00FCrth(Bay)Hbf","lat":49.469706,"lon":10.989987}
+{"Id":8000108,"Name":"Freilassing","lat":47.836915,"lon":12.977196}
+{"Id":8010113,"Name":"Frankfurt(Oder)","lat":52.33642,"lon":14.546497}
+{"Id":8000103,"Name":"Flensburg","lat":54.774043,"lon":9.436525}
+{"Id":8002041,"Name":"Frankfurt(Main)S\u00FCd","lat":50.099365,"lon":8.686456}
+{"Id":8000111,"Name":"Friedberg(Hess)","lat":50.332608,"lon":8.762056}
+{"Id":8002042,"Name":"Frankfurt(Main)West","lat":50.118862,"lon":8.639335}
+{"Id":8700271,"Name":"Forbach(F)","lat":49.189216,"lon":6.900255}
+{"Id":8001995,"Name":"Fischen","lat":47.45659,"lon":10.271713}
+{"Id":8070004,"Name":"Frankfurt(M) Flughafen Regionalbf","lat":50.051219,"lon":8.57125}
+{"Id":8011542,"Name":"Finsterwalde(Niederlausitz)","lat":51.636997,"lon":13.710384}
+{"Id":8002050,"Name":"Frankfurt-Niederrad","lat":50.081287,"lon":8.637079}
+{"Id":8000112,"Name":"Friedrichshafen Stadt","lat":47.65322,"lon":9.473902}
+{"Id":8600623,"Name":"Fredericia st","lat":55.568087,"lon":9.738814}
+{"Id":8300089,"Name":"Fortezza/Franzensfeste","lat":46.788719,"lon":11.610081}
+{"Id":8100197,"Name":"Feldkirch","lat":47.240975,"lon":9.604102}
+{"Id":8100053,"Name":"Fieberbrunn","lat":47.491136,"lon":12.52894}
+{"Id":8396001,"Name":"FIRENZE","lat":43.765835,"lon":11.249928}
+{"Id":8300151,"Name":"Firenze S.M.N.","lat":43.776811,"lon":11.247807}
+{"Id":8000128,"Name":"G\u00F6ttingen","lat":51.536812,"lon":9.926069}
+{"Id":8010136,"Name":"Gotha","lat":50.939074,"lon":10.712571}
+{"Id":8000118,"Name":"Gelsenkirchen Hbf","lat":51.5049,"lon":7.102458}
+{"Id":8002461,"Name":"G\u00FCtersloh Hbf","lat":51.906943,"lon":8.385075}
+{"Id":8010125,"Name":"Gera Hbf","lat":50.883422,"lon":12.077088}
+{"Id":8000139,"Name":"G\u00FCnzburg","lat":48.460559,"lon":10.279264}
+{"Id":8002166,"Name":"Nebringen(G\u00E4ufelden)","lat":48.559665,"lon":8.850312}
+{"Id":8000329,"Name":"Schw\u00E4bisch Gm\u00FCnd","lat":48.801008,"lon":9.787797}
+{"Id":8000127,"Name":"G\u00F6ppingen","lat":48.700023,"lon":9.65197}
+{"Id":8000124,"Name":"Gie\u00DFen","lat":50.579056,"lon":8.661466}
+{"Id":8010139,"Name":"Greifswald","lat":54.092921,"lon":13.370259}
+{"Id":8000091,"Name":"Steinach(b Rothenburg ob der Tauber)","lat":49.45322,"lon":10.273538}
+{"Id":8002218,"Name":"Geislingen(Steige)","lat":48.619354,"lon":9.841939}
+{"Id":8002187,"Name":"Garmisch-Partenkirchen","lat":47.49145,"lon":11.097013}
+{"Id":8002206,"Name":"Geilenkirchen","lat":50.961035,"lon":6.124522}
+{"Id":8005644,"Name":"St Georgen(Schwarzw)","lat":48.123814,"lon":8.341954}
+{"Id":8010153,"Name":"G\u00FCstrow","lat":53.800601,"lon":12.172833}
+{"Id":8089480,"Name":"G\u00F6ttingen Albaniplatz (SEV)","lat":51.533998,"lon":9.941863}
+{"Id":8100173,"Name":"St\u00FDrsk\u00FD Hradec hl.n.","lat":47.072301,"lon":15.416437}
+{"Id":8506302,"Name":"St. Gallen(CH)","lat":47.423177,"lon":9.369897}
+{"Id":8100041,"Name":"Golling-Abtenau","lat":47.600579,"lon":13.164082}
+{"Id":5500080,"Name":"Raab","lat":47.681986,"lon":17.634795}
+{"Id":5100012,"Name":"Glogow","lat":51.668953,"lon":16.079715}
+{"Id":5100222,"Name":"Zielona Gora Gl.","lat":51.947439,"lon":15.51371}
+{"Id":8100095,"Name":"Gastein Bad","lat":47.111746,"lon":13.132458}
+{"Id":5100011,"Name":"Gliwice","lat":50.30111,"lon":18.677157}
+{"Id":8400263,"Name":"Groningen","lat":53.210684,"lon":6.564274}
+{"Id":5101104,"Name":"Gdansk Oliwa","lat":54.40989,"lon":18.571741}
+{"Id":5101307,"Name":"Gdansk Wrzeszcz","lat":54.381862,"lon":18.605432}
+{"Id":5196006,"Name":"GDYNIA","lat":54.541528,"lon":18.473552}
+{"Id":5100010,"Name":"Gdynia Glowna","lat":54.520844,"lon":18.529555}
+{"Id":5100013,"Name":"Gniezno","lat":52.529652,"lon":17.602182}
+{"Id":8010159,"Name":"Halle(Saale)Hbf","lat":51.47751,"lon":11.987088}
+{"Id":8000142,"Name":"Hagen Hbf","lat":51.362745,"lon":7.460247}
+{"Id":8000149,"Name":"Hamm(Westf)Hbf","lat":51.678077,"lon":7.807824}
+{"Id":8000152,"Name":"Hannover Hbf","lat":52.376764,"lon":9.741017}
+{"Id":8000156,"Name":"Heidelberg Hbf","lat":49.403564,"lon":8.675444}
+{"Id":8000150,"Name":"Hanau Hbf","lat":50.120957,"lon":8.929003}
+{"Id":8000169,"Name":"Hildesheim Hbf","lat":52.160627,"lon":9.953495}
+{"Id":8002553,"Name":"Hamburg-Altona","lat":53.552697,"lon":9.935175}
+{"Id":8002548,"Name":"Hamburg Dammtor","lat":53.560751,"lon":9.989569}
+{"Id":8000147,"Name":"Hamburg-Harburg","lat":53.45591,"lon":9.991699}
+{"Id":8000192,"Name":"Wanne-Eickel Hbf","lat":51.531256,"lon":7.165787}
+{"Id":8000176,"Name":"Homburg(Saar)Hbf","lat":49.328081,"lon":7.337032}
+{"Id":8010304,"Name":"Rostock Hbf","lat":54.078242,"lon":12.131078}
+{"Id":8000162,"Name":"Herford","lat":52.119609,"lon":8.663642}
+{"Id":8000159,"Name":"Helmstedt","lat":52.222086,"lon":11.010554}
+{"Id":8002785,"Name":"Herrenberg","lat":48.593995,"lon":8.862663}
+{"Id":8000177,"Name":"Horb","lat":48.441475,"lon":8.688982}
+{"Id":8000522,"Name":"Hude","lat":53.10943,"lon":8.460953}
+{"Id":8000237,"Name":"L\u00FCbeck Hbf","lat":53.867544,"lon":10.669818}
+{"Id":8010338,"Name":"Stralsund Hbf","lat":54.308627,"lon":13.077318}
+{"Id":8000155,"Name":"Heide(Holst)","lat":54.193565,"lon":9.10103}
+{"Id":8011862,"Name":"Hermsdorf-Klosterlausnitz","lat":50.903782,"lon":11.858624}
+{"Id":8000181,"Name":"Husum","lat":54.472275,"lon":9.055023}
+{"Id":8002554,"Name":"Hamburg-Bergedorf","lat":53.489835,"lon":10.206173}
+{"Id":8002806,"Name":"Herzogenrath","lat":50.870918,"lon":6.094489}
+{"Id":8002504,"Name":"Scharbeutz-Haffkrug","lat":54.054187,"lon":10.742685}
+{"Id":8096012,"Name":"HANNOVER MESSE","lat":52.323161,"lon":9.798206}
+{"Id":8003487,"Name":"LaatzenHannoverMesse","lat":52.316896,"lon":9.792867}
+{"Id":8000333,"Name":"Hausach","lat":48.284928,"lon":8.181667}
+{"Id":8002757,"Name":"Heppenheim(Bergstr)","lat":49.641553,"lon":8.633375}
+{"Id":8003001,"Name":"Hornberg(Schwarzw)","lat":48.211891,"lon":8.232941}
+{"Id":8003016,"Name":"H\u00FCnfeld","lat":50.673272,"lon":9.762456}
+{"Id":939295,"Name":"Hauptbahnhof (U), Rostock","lat":54.078359,"lon":12.130907}
+{"Id":8400316,"Name":"Hengelo","lat":52.261855,"lon":6.793724}
+{"Id":8400322,"Name":"Hilversum","lat":52.226671,"lon":5.1814}
+{"Id":8100097,"Name":"Hofgastein Bad","lat":47.195714,"lon":13.100942}
+{"Id":5500017,"Name":"Hegyeshalom","lat":47.913503,"lon":17.147023}
+{"Id":8100040,"Name":"Hallein","lat":47.685168,"lon":13.099432}
+{"Id":8601089,"Name":"Horsens st","lat":55.86279,"lon":9.835502}
+{"Id":8100052,"Name":"Hochfilzen","lat":47.46771,"lon":12.626527}
+{"Id":8100059,"Name":"Hopfgarten im Brixental","lat":47.45535,"lon":12.149182}
+{"Id":8613696,"Name":"Hedensted st","lat":55.767998,"lon":9.699496}
+{"Id":5100070,"Name":"Zabrze","lat":50.305281,"lon":18.786943}
+{"Id":8000183,"Name":"Ingolstadt Hbf","lat":48.744538,"lon":11.437335}
+{"Id":8096004,"Name":"JENA","lat":50.924008,"lon":11.582727}
+{"Id":8003065,"Name":"Immenstadt","lat":47.559202,"lon":10.214002}
+{"Id":8003102,"Name":"Itzehoe","lat":53.92387,"lon":9.510291}
+{"Id":8003036,"Name":"Ibbenb\u00FCren","lat":52.276867,"lon":7.721482}
+{"Id":8000182,"Name":"Immendingen","lat":47.936003,"lon":8.729533}
+{"Id":8003042,"Name":"Igel","lat":49.707372,"lon":6.550682}
+{"Id":8100108,"Name":"Innsbruck Hbf","lat":47.263331,"lon":11.400506}
+{"Id":8507492,"Name":"Interlaken Ost","lat":46.690502,"lon":7.868995}
+{"Id":8507493,"Name":"Interlaken West","lat":46.682951,"lon":7.851367}
+{"Id":8100062,"Name":"Imst-Pitztal","lat":47.219077,"lon":10.76167}
+{"Id":5100015,"Name":"Inowroclaw","lat":52.804947,"lon":18.244057}
+{"Id":7900029,"Name":"Ilirska Bistrica","lat":45.569278,"lon":14.236037}
+{"Id":8011956,"Name":"Jena Paradies","lat":50.924853,"lon":11.587464}
+{"Id":8010133,"Name":"Jena-G\u00F6schwitz","lat":50.883943,"lon":11.593541}
+{"Id":8011957,"Name":"Jena West","lat":50.923289,"lon":11.577846}
+{"Id":8100102,"Name":"Jenbach","lat":47.388452,"lon":11.778458}
+{"Id":8100043,"Name":"St. Johann im Pongau","lat":47.348378,"lon":13.19496}
+{"Id":5100233,"Name":"Jaroslaw","lat":50.010668,"lon":22.677897}
+{"Id":5100213,"Name":"Jaworzno Szczakowa","lat":50.246329,"lon":19.297422}
+{"Id":8100054,"Name":"Johann in Tirol St","lat":47.519622,"lon":12.430778}
+{"Id":8102059,"Name":"Tullnerfeld","lat":48.295239,"lon":15.996538}
+{"Id":7900001,"Name":"Jesenice(SL)","lat":46.436323,"lon":14.054913}
+{"Id":7800319,"Name":"Jurdani","lat":45.393089,"lon":14.308553}
+{"Id":8000199,"Name":"Kiel Hbf","lat":54.314982,"lon":10.131976}
+{"Id":8003200,"Name":"Kassel-Wilhelmsh\u00F6he","lat":51.313115,"lon":9.446899}
+{"Id":8000189,"Name":"Kaiserslautern Hbf","lat":49.436141,"lon":7.768712}
+{"Id":8000197,"Name":"Kempten(Allg\u00E4u)Hbf","lat":47.711749,"lon":10.317612}
+{"Id":8000211,"Name":"Krefeld Hbf","lat":51.325718,"lon":6.569883}
+{"Id":8010195,"Name":"K\u00F6then","lat":51.751933,"lon":11.989354}
+{"Id":8003184,"Name":"Karlsruhe-Durlach","lat":49.00233,"lon":8.462823}
+{"Id":8003400,"Name":"Konstanz","lat":47.658757,"lon":9.177312}
+{"Id":8000208,"Name":"K\u00F6ln-Ehrenfeld","lat":50.951533,"lon":6.91728}
+{"Id":8000213,"Name":"Kreiensen","lat":51.851425,"lon":9.967797}
+{"Id":8000194,"Name":"Kaufbeuren","lat":47.875433,"lon":10.629493}
+{"Id":8003222,"Name":"Keitum","lat":54.888817,"lon":8.368966}
+{"Id":8003303,"Name":"Klanxb\u00FCll","lat":54.861994,"lon":8.676451}
+{"Id":8010193,"Name":"K\u00F6nigs Wusterhausen","lat":52.296634,"lon":13.631476}
+{"Id":8003446,"Name":"Kronach","lat":50.239614,"lon":11.320116}
+{"Id":8003350,"Name":"Kobern-Gondorf","lat":50.300714,"lon":7.46075}
+{"Id":8003434,"Name":"Kreuz Konz","lat":49.703794,"lon":6.576868}
+{"Id":8003411,"Name":"Kornwestheim Pbf","lat":48.862215,"lon":9.179964}
+{"Id":8003363,"Name":"K\u00F6ln West","lat":50.943668,"lon":6.934387}
+{"Id":8100001,"Name":"Kufstein","lat":47.583077,"lon":12.165551}
+{"Id":8601318,"Name":"Kolding st","lat":55.490843,"lon":9.481525}
+{"Id":5500008,"Name":"Kelenf\u00F6ld","lat":47.464357,"lon":19.020455}
+{"Id":8100031,"Name":"Kapfenberg","lat":47.44512,"lon":15.292089}
+{"Id":8100079,"Name":"Krumpendorf/W\u00F6rthersee","lat":46.626337,"lon":14.22151}
+{"Id":5100020,"Name":"Katowice","lat":50.257512,"lon":19.017165}
+{"Id":8601309,"Name":"Koebenhavn H","lat":55.672722,"lon":12.564618}
+{"Id":5100026,"Name":"Konin","lat":52.231399,"lon":18.253334}
+{"Id":5100032,"Name":"Kutno","lat":52.226959,"lon":19.348616}
+{"Id":5101863,"Name":"Krzeszowice","lat":50.130962,"lon":19.633241}
+{"Id":5600081,"Name":"Kuty","lat":48.661891,"lon":17.047692}
+{"Id":8100057,"Name":"Kirchberg in Tirol","lat":47.448922,"lon":12.3091}
+{"Id":8100055,"Name":"Kitzb\u00FChel","lat":47.454109,"lon":12.391046}
+{"Id":8101044,"Name":"Kitzb\u00FChel Hahnenkamm","lat":47.443385,"lon":12.389859}
+{"Id":8600797,"Name":"Koege Nord St.","lat":55.499554,"lon":12.173246}
+{"Id":5400022,"Name":"Kolin(CZ)","lat":50.025437,"lon":15.214279}
+{"Id":8010205,"Name":"Leipzig Hbf","lat":51.345467,"lon":12.382066}
+{"Id":8010222,"Name":"Lutherstadt Wittenberg Hbf","lat":51.867813,"lon":12.662286}
+{"Id":8000238,"Name":"L\u00FCneburg","lat":53.249652,"lon":10.419891}
+{"Id":8003680,"Name":"Limburg S\u00FCd","lat":50.382498,"lon":8.096108}
+{"Id":8000236,"Name":"Ludwigshafen(Rh)Hbf","lat":49.477985,"lon":8.433401}
+{"Id":8003693,"Name":"Lindau-Reutin","lat":47.552388,"lon":9.703289}
+{"Id":8010216,"Name":"Ludwigslust","lat":53.334672,"lon":11.494489}
+{"Id":8000225,"Name":"Leer(Ostfriesl)","lat":53.231647,"lon":7.465281}
+{"Id":8003701,"Name":"Lingen(Ems)","lat":52.519863,"lon":7.321732}
+{"Id":8012183,"Name":"Leipzig/Halle Flughafen","lat":51.423341,"lon":12.223424}
+{"Id":8100013,"Name":"Linz Hbf","lat":48.290178,"lon":14.292129}
+{"Id":8000571,"Name":"Lippstadt","lat":51.670688,"lon":8.348785}
+{"Id":8000228,"Name":"Lichtenfels","lat":50.14645,"lon":11.059474}
+{"Id":8000230,"Name":"Lindau-Insel","lat":47.544343,"lon":9.680465}
+{"Id":8003545,"Name":"Langenhagen Mitte","lat":52.440282,"lon":9.725429}
+{"Id":8006713,"Name":"Leverkusen Mitte","lat":51.03151,"lon":6.991657}
+{"Id":8000235,"Name":"Ludwigsburg","lat":48.891862,"lon":9.18542}
+{"Id":8003494,"Name":"Lahr(Schwarzw)","lat":48.340436,"lon":7.834737}
+{"Id":8003515,"Name":"Landstuhl","lat":49.416283,"lon":7.565933}
+{"Id":8010203,"Name":"Leinefelde","lat":51.38884,"lon":10.328758}
+{"Id":8003652,"Name":"Leonberg","lat":48.79965,"lon":9.003856}
+{"Id":8010217,"Name":"L\u00FCbben(Spreewald)","lat":51.939735,"lon":13.877178}
+{"Id":8010220,"Name":"L\u00FCbbenau(Spreewald)","lat":51.862167,"lon":13.960904}
+{"Id":8100070,"Name":"Leoben Hbf","lat":47.3866,"lon":15.089607}
+{"Id":8601512,"Name":"Lunderskov st","lat":55.480119,"lon":9.30379}
+{"Id":8800012,"Name":"Li\u00E8ge-Guillemins","lat":50.624362,"lon":5.56648}
+{"Id":8500023,"Name":"Liestal","lat":47.484376,"lon":7.731352}
+{"Id":8509002,"Name":"Landquart","lat":46.967442,"lon":9.554041}
+{"Id":5100035,"Name":"Legnica","lat":51.213847,"lon":16.168924}
+{"Id":5100308,"Name":"Lubin Gorniczy","lat":51.393955,"lon":16.195838}
+{"Id":8100131,"Name":"Liezen","lat":47.562708,"lon":14.241889}
+{"Id":8100063,"Name":"Landeck-Zams","lat":47.148242,"lon":10.578389}
+{"Id":8100065,"Name":"Langen am Arlberg","lat":47.13172,"lon":10.120371}
+{"Id":8200100,"Name":"Luxembourg","lat":49.599717,"lon":6.134392}
+{"Id":5101932,"Name":"Lancut","lat":50.081431,"lon":22.22751}
+{"Id":8796002,"Name":"LYON","lat":45.702255,"lon":4.863811}
+{"Id":8700152,"Name":"Lyon Part Dieu","lat":45.760568,"lon":4.859991}
+{"Id":8700040,"Name":"Lyon-Perrache","lat":45.748361,"lon":4.825302}
+{"Id":8601404,"Name":"Langeskov st","lat":55.361812,"lon":10.586299}
+{"Id":8505300,"Name":"Lugano","lat":46.005497,"lon":8.946991}
+{"Id":8505000,"Name":"Luzern","lat":47.050179,"lon":8.310186}
+{"Id":7900002,"Name":"Lesce-Bled","lat":46.360418,"lon":14.157974}
+{"Id":7900003,"Name":"Ljubljana","lat":46.058687,"lon":14.51294}
+{"Id":7400008,"Name":"Link\u00F6ping Central","lat":58.416014,"lon":15.626677}
+{"Id":7400115,"Name":"Lund Central","lat":55.705523,"lon":13.186582}
+{"Id":8000261,"Name":"M\u00FCnchen Hbf","lat":48.140229,"lon":11.558339}
+{"Id":8000240,"Name":"Mainz Hbf","lat":50.001113,"lon":8.258723}
+{"Id":8000244,"Name":"Mannheim Hbf","lat":49.479352,"lon":8.468917}
+{"Id":8000263,"Name":"M\u00FCnster(Westf)Hbf","lat":51.956563,"lon":7.635716}
+{"Id":8004158,"Name":"M\u00FCnchen-Pasing","lat":48.149856,"lon":11.461876}
+{"Id":8000667,"Name":"Montabaur","lat":50.444838,"lon":7.825335}
+{"Id":8010224,"Name":"Magdeburg Hbf","lat":52.130352,"lon":11.626891}
+{"Id":8000259,"Name":"M\u00FClheim(Ruhr)Hbf","lat":51.431341,"lon":6.88651}
+{"Id":8000253,"Name":"M\u00F6nchengladbach Hbf","lat":51.196579,"lon":6.446111}
+{"Id":8000262,"Name":"M\u00FCnchen Ost","lat":48.127437,"lon":11.604975}
+{"Id":8000252,"Name":"Minden(Westf)","lat":52.290135,"lon":8.934729}
+{"Id":8003978,"Name":"Meppen","lat":52.696025,"lon":7.298018}
+{"Id":8000339,"Name":"M\u00FChlacker","lat":48.953195,"lon":8.846105}
+{"Id":8000337,"Name":"Marburg(Lahn)","lat":50.819275,"lon":8.775018}
+{"Id":8000249,"Name":"Memmingen","lat":47.985578,"lon":10.186855}
+{"Id":8003866,"Name":"Marienhafe","lat":53.520893,"lon":7.270727}
+{"Id":8004043,"Name":"Mittenwald","lat":47.440032,"lon":11.265704}
+{"Id":8000318,"Name":"Rheydt Hbf","lat":51.163031,"lon":6.439567}
+{"Id":8004185,"Name":"Murnau","lat":47.682264,"lon":11.192631}
+{"Id":8004009,"Name":"Metzingen(W\u00FCrtt)","lat":48.539727,"lon":9.290154}
+{"Id":8004124,"Name":"M\u00FCllheim(Baden)","lat":47.80974,"lon":7.599328}
+{"Id":8004147,"Name":"M\u00FCnchen-Feldmoching","lat":48.213814,"lon":11.541322}
+{"Id":8506314,"Name":"St. Margrethen SG","lat":47.453219,"lon":9.638261}
+{"Id":5500016,"Name":"Mosonmagyarovar","lat":47.850354,"lon":17.266426}
+{"Id":8100029,"Name":"M\u00FCrzzuschlag","lat":47.60795,"lon":15.677394}
+{"Id":8100093,"Name":"Mallnitz-Obervellach","lat":46.981214,"lon":13.176496}
+{"Id":8100071,"Name":"Michael St","lat":47.346625,"lon":15.00919}
+{"Id":8396005,"Name":"MILANO","lat":45.462477,"lon":9.207597}
+{"Id":8700074,"Name":"Marseille-St-Charles","lat":43.303816,"lon":5.38195}
+{"Id":8700031,"Name":"Mulhouse Ville","lat":47.741953,"lon":7.343045}
+{"Id":8300046,"Name":"Milano Centrale","lat":45.487143,"lon":9.204828}
+{"Id":8300062,"Name":"Milano Lambrate","lat":45.485067,"lon":9.237225}
+{"Id":8300047,"Name":"Milano Porta Garibaldi","lat":45.484438,"lon":9.187299}
+{"Id":8300063,"Name":"Monza","lat":45.574824,"lon":9.273686}
+{"Id":7400004,"Name":"Malm\u00F6 Central","lat":55.609231,"lon":13.00126}
+{"Id":8270690,"Name":"Manternach","lat":49.706455,"lon":6.423772}
+{"Id":8270720,"Name":"Mertert","lat":49.703255,"lon":6.478643}
+{"Id":8270780,"Name":"Munsbach","lat":49.630254,"lon":6.268583}
+{"Id":8000284,"Name":"N\u00FCrnberg Hbf","lat":49.445615,"lon":11.082989}
+{"Id":8096025,"Name":"N\u00DCRNBERG","lat":49.450748,"lon":11.077955}
+{"Id":8000271,"Name":"Neum\u00FCnster","lat":54.075752,"lon":9.979815}
+{"Id":8010250,"Name":"Neustrelitz Hbf","lat":53.359258,"lon":13.074603}
+{"Id":8010240,"Name":"Naumburg(Saale)Hbf","lat":51.163067,"lon":11.796985}
+{"Id":8000275,"Name":"Neustadt(Weinstr)Hbf","lat":49.349557,"lon":8.140757}
+{"Id":8000274,"Name":"Neuss Hbf","lat":51.204355,"lon":6.684523}
+{"Id":8000279,"Name":"Nienburg(Weser)","lat":52.645568,"lon":9.217755}
+{"Id":8004449,"Name":"Norddeich","lat":53.621581,"lon":7.160825}
+{"Id":8007768,"Name":"Norddeich Mole","lat":53.624314,"lon":7.158802}
+{"Id":8000800,"Name":"Norden","lat":53.588195,"lon":7.218913}
+{"Id":8004343,"Name":"Nieb\u00FCll","lat":54.789603,"lon":8.834572}
+{"Id":8000283,"Name":"Northeim(Han)","lat":51.703139,"lon":9.98662}
+{"Id":8006730,"Name":"Ulm Neu","lat":48.393041,"lon":10.004823}
+{"Id":8010256,"Name":"Nordhausen","lat":51.492917,"lon":10.789249}
+{"Id":8004488,"Name":"N\u00FCrtingen","lat":48.628001,"lon":9.342651}
+{"Id":5100071,"Name":"Zbaszynek","lat":52.24251,"lon":15.818093}
+{"Id":5600025,"Name":"Nove Zamky","lat":47.994999,"lon":18.173959}
+{"Id":5500913,"Name":"Nagymaros-Visegrad","lat":47.79089,"lon":18.958798}
+{"Id":8613687,"Name":"Ny Ellebjerg st","lat":55.652424,"lon":12.516319}
+{"Id":8601739,"Name":"Nyborg st","lat":55.31407,"lon":10.802921}
+{"Id":7400017,"Name":"N\u00E4ssj\u00F6 Central","lat":57.652128,"lon":14.694783}
+{"Id":7400007,"Name":"Norrk\u00F6ping Central","lat":58.596562,"lon":16.183676}
+{"Id":8000294,"Name":"Osnabr\u00FCck Hbf","lat":52.272849,"lon":8.061778}
+{"Id":8000290,"Name":"Offenburg","lat":48.476479,"lon":7.946725}
+{"Id":8000286,"Name":"Oberhausen Hbf","lat":51.474876,"lon":6.851587}
+{"Id":8000291,"Name":"Oldenburg(Oldb)","lat":53.144326,"lon":8.222712}
+{"Id":8004563,"Name":"Oberndorf(Neckar)","lat":48.29567,"lon":8.575511}
+{"Id":8004610,"Name":"Westerstede-Ocholt","lat":53.202162,"lon":7.88647}
+{"Id":8013487,"Name":"Oranienburg","lat":52.753655,"lon":13.249614}
+{"Id":8004585,"Name":"Oberstdorf","lat":47.411033,"lon":10.278095}
+{"Id":8004669,"Name":"Oldenburg(Holst)","lat":54.283825,"lon":10.882836}
+{"Id":8500218,"Name":"Olten","lat":47.351938,"lon":7.907703}
+{"Id":5100046,"Name":"Opole Glowne","lat":50.661514,"lon":17.925866}
+{"Id":8601770,"Name":"Odense st","lat":55.401778,"lon":10.386002}
+{"Id":5400038,"Name":"Oderberg Bohumin","lat":49.90073,"lon":18.359443}
+{"Id":5102560,"Name":"Olawa","lat":50.930939,"lon":17.297187}
+{"Id":5496002,"Name":"OSTRAVA","lat":49.833967,"lon":18.237639}
+{"Id":5400026,"Name":"Ostrava hl.n.","lat":49.852089,"lon":18.267258}
+{"Id":7800002,"Name":"Opatija Matulji","lat":45.364701,"lon":14.320976}
+{"Id":8270830,"Name":"Oetrange","lat":49.602603,"lon":6.258137}
+{"Id":8000298,"Name":"Passau Hbf","lat":48.573635,"lon":13.450775}
+{"Id":8000301,"Name":"Plattling","lat":48.779622,"lon":12.863941}
+{"Id":8000299,"Name":"Pforzheim Hbf","lat":48.894154,"lon":8.703095}
+{"Id":8000297,"Name":"Paderborn Hbf","lat":51.712982,"lon":8.740508}
+{"Id":8012666,"Name":"Potsdam Hbf","lat":52.391506,"lon":13.066702}
+{"Id":8004885,"Name":"Prien a Chiemsee","lat":47.855513,"lon":12.346612}
+{"Id":8004751,"Name":"Papenburg(Ems)","lat":53.089707,"lon":7.386706}
+{"Id":8000302,"Name":"Plochingen","lat":48.713084,"lon":9.410807}
+{"Id":8010268,"Name":"Pasewalk","lat":53.515356,"lon":13.988878}
+{"Id":8010282,"Name":"Prenzlau","lat":53.321611,"lon":13.866535}
+{"Id":8004760,"Name":"Peine","lat":52.318945,"lon":10.232142}
+{"Id":8004815,"Name":"Piding","lat":47.759545,"lon":12.91153}
+{"Id":8100008,"Name":"St.P\u00F6lten Hbf","lat":48.208304,"lon":15.624672}
+{"Id":8796001,"Name":"PARIS","lat":48.861496,"lon":2.333681}
+{"Id":8700011,"Name":"Paris Est","lat":48.876976,"lon":2.35912}
+{"Id":5600207,"Name":"Pre\u00DFburg Hbf","lat":48.158908,"lon":17.106463}
+{"Id":5496001,"Name":"PRAHA","lat":50.081926,"lon":14.451481}
+{"Id":5400014,"Name":"Praha hl.n.","lat":50.083058,"lon":14.436038}
+{"Id":5400201,"Name":"Praha-Holesovice","lat":50.110215,"lon":14.440011}
+{"Id":8601899,"Name":"Padborg st","lat":54.824248,"lon":9.358804}
+{"Id":5196002,"Name":"POZNAN","lat":52.410249,"lon":16.905366}
+{"Id":5100081,"Name":"Poznan Gl.","lat":52.401997,"lon":16.910867}
+{"Id":8100080,"Name":"P\u00F6rtschach am W\u00F6rther See","lat":46.636199,"lon":14.146235}
+{"Id":8300098,"Name":"Padova","lat":45.417828,"lon":11.88062}
+{"Id":5400161,"Name":"Pardubice hl.n.","lat":50.031739,"lon":15.756212}
+{"Id":5696001,"Name":"POZSONY","lat":48.154135,"lon":17.097852}
+{"Id":5100234,"Name":"Przemysl Gl.","lat":49.783664,"lon":22.776364}
+{"Id":5102825,"Name":"Przemysl Zasanie","lat":49.793633,"lon":22.774117}
+{"Id":5100195,"Name":"Przeworsk","lat":50.067219,"lon":22.503353}
+{"Id":8700014,"Name":"Paris Nord","lat":48.880886,"lon":2.354931}
+{"Id":8300216,"Name":"Pesaro","lat":43.905968,"lon":12.904752}
+{"Id":8300124,"Name":"Peschiera del Garda","lat":45.437577,"lon":10.701182}
+{"Id":8300110,"Name":"Pordenone","lat":45.956353,"lon":12.653684}
+{"Id":7900011,"Name":"Pivka","lat":45.675252,"lon":14.191378}
+{"Id":7900012,"Name":"Postojna","lat":45.773099,"lon":14.221465}
+{"Id":8000309,"Name":"Regensburg Hbf","lat":49.01167,"lon":12.099615}
+{"Id":8010297,"Name":"Riesa","lat":51.309654,"lon":13.287738}
+{"Id":8000307,"Name":"Recklinghausen Hbf","lat":51.616357,"lon":7.203488}
+{"Id":8000314,"Name":"Reutlingen Hbf","lat":48.496076,"lon":9.209116}
+{"Id":8000320,"Name":"Rosenheim","lat":47.850021,"lon":12.119203}
+{"Id":8000310,"Name":"Remagen","lat":50.577213,"lon":7.229781}
+{"Id":8000316,"Name":"Rheine","lat":52.2763,"lon":7.434259}
+{"Id":8000322,"Name":"Rottweil","lat":48.1653,"lon":8.639299}
+{"Id":8012763,"Name":"Ribnitz-Damgarten West","lat":54.239176,"lon":12.436963}
+{"Id":8000312,"Name":"Rendsburg","lat":54.302262,"lon":9.671135}
+{"Id":8000880,"Name":"Radolfzell","lat":47.735876,"lon":8.968987}
+{"Id":8012762,"Name":"Ribnitz-Damgarten Ost","lat":54.251015,"lon":12.487015}
+{"Id":8005101,"Name":"Ringsheim","lat":48.248729,"lon":7.773035}
+{"Id":8000306,"Name":"Rastatt","lat":48.86048,"lon":8.215619}
+{"Id":8004965,"Name":"Ravensburg","lat":47.784481,"lon":9.606098}
+{"Id":8000737,"Name":"Reichenhall Bad","lat":47.731166,"lon":12.881821}
+{"Id":8000738,"Name":"Reichenhall-Kir. Bad","lat":47.718536,"lon":12.874}
+{"Id":5100082,"Name":"Rzepin","lat":52.350219,"lon":14.815077}
+{"Id":8601996,"Name":"Roedekro st","lat":55.069689,"lon":9.332754}
+{"Id":8100138,"Name":"Radstadt","lat":47.384236,"lon":13.46781}
+{"Id":8601979,"Name":"Ringsted st","lat":55.43804,"lon":11.786153}
+{"Id":8100309,"Name":"Rottenmann Stadt","lat":47.527227,"lon":14.367171}
+{"Id":8300113,"Name":"Rovereto","lat":45.890957,"lon":11.033603}
+{"Id":5100263,"Name":"Raciborz","lat":50.090349,"lon":18.226393}
+{"Id":5103068,"Name":"Radymno","lat":49.939537,"lon":22.829149}
+{"Id":5103157,"Name":"Ropczyce","lat":50.078582,"lon":21.582885}
+{"Id":5100229,"Name":"Rzeszow Gl.","lat":50.04311,"lon":22.006798}
+{"Id":5103245,"Name":"Rzeszow Zachodni","lat":50.053529,"lon":21.994033}
+{"Id":8300221,"Name":"Rimini","lat":44.064241,"lon":12.574012}
+{"Id":8396004,"Name":"ROMA","lat":41.901868,"lon":12.470654}
+{"Id":8300263,"Name":"Roma Termini","lat":41.900492,"lon":12.502791}
+{"Id":7800013,"Name":"Rijeka","lat":45.330138,"lon":14.430339}
+{"Id":8270890,"Name":"Roodt/Syre","lat":49.666804,"lon":6.303074}
+{"Id":8000087,"Name":"Solingen Hbf","lat":51.160766,"lon":7.004188}
+{"Id":8010334,"Name":"Stendal Hbf","lat":52.594725,"lon":11.854408}
+{"Id":8000096,"Name":"Stuttgart Hbf","lat":48.784081,"lon":9.181636}
+{"Id":8005556,"Name":"Siegburg/Bonn","lat":50.793916,"lon":7.203029}
+{"Id":8000323,"Name":"Saarbr\u00FCcken Hbf","lat":49.241066,"lon":6.991019}
+{"Id":8010324,"Name":"Schwerin Hbf","lat":53.634741,"lon":11.407455}
+{"Id":8100002,"Name":"Salzburg Hbf","lat":47.813048,"lon":13.04582}
+{"Id":8000073,"Name":"Singen(Hohentwiel)","lat":47.758439,"lon":8.840379}
+{"Id":8005616,"Name":"Spaichingen","lat":48.068989,"lon":8.740149}
+{"Id":8005791,"Name":"Sulz(Neckar)","lat":48.366487,"lon":8.636746}
+{"Id":8000129,"Name":"Treysa","lat":50.910659,"lon":9.185672}
+{"Id":8000095,"Name":"Straubing","lat":48.876976,"lon":12.574093}
+{"Id":8010310,"Name":"Salzwedel","lat":52.858109,"lon":11.162032}
+{"Id":8000076,"Name":"Soest","lat":51.578423,"lon":8.104593}
+{"Id":8005609,"Name":"Sonthofen","lat":47.51324,"lon":10.272342}
+{"Id":8010309,"Name":"Saalfeld(Saale)","lat":50.650278,"lon":11.374582}
+{"Id":8005321,"Name":"Scharbeutz","lat":54.018743,"lon":10.745759}
+{"Id":8005424,"Name":"Schorndorf","lat":48.807147,"lon":9.526309}
+{"Id":8005561,"Name":"Sierksdorf","lat":54.068525,"lon":10.769104}
+{"Id":8013025,"Name":"Stadtroda","lat":50.868212,"lon":11.722788}
+{"Id":8006369,"Name":"Westerland(Sylt)","lat":54.906841,"lon":8.310923}
+{"Id":8005362,"Name":"Schleswig","lat":54.499459,"lon":9.538139}
+{"Id":8000891,"Name":"Schl\u00FCchtern","lat":50.341175,"lon":9.510039}
+{"Id":8005776,"Name":"Vaihingen(Stuttgart)","lat":48.72628,"lon":9.113228}
+{"Id":8005476,"Name":"Schweich(DB)","lat":49.831064,"lon":6.740337}
+{"Id":8079454,"Name":"Stralsund Bahnhofstra\u00DFe","lat":54.306991,"lon":13.079952}
+{"Id":8700023,"Name":"Strasbourg","lat":48.585339,"lon":7.734067}
+{"Id":8503424,"Name":"Schaffhausen","lat":47.698283,"lon":8.632755}
+{"Id":5103284,"Name":"Swiebodzin","lat":52.245144,"lon":15.539536}
+{"Id":8100044,"Name":"Schwarzach-St.Veit","lat":47.318534,"lon":13.154464}
+{"Id":8507483,"Name":"Spiez","lat":46.686394,"lon":7.680105}
+{"Id":8100024,"Name":"Sch\u00E4rding","lat":48.463724,"lon":13.442514}
+{"Id":8509411,"Name":"Sargans","lat":47.045361,"lon":9.445398}
+{"Id":8100028,"Name":"Semmering","lat":47.639548,"lon":15.830921}
+{"Id":8100092,"Name":"Spittal-Millst\u00E4ttersee","lat":46.795703,"lon":13.487415}
+{"Id":8101917,"Name":"Salzburg S\u00FCd","lat":47.770224,"lon":13.078487}
+{"Id":8100137,"Name":"Schladming","lat":47.393827,"lon":13.678148}
+{"Id":8100150,"Name":"Selzthal","lat":47.55024,"lon":14.312841}
+{"Id":8602175,"Name":"Skanderborg st","lat":56.043563,"lon":9.924496}
+{"Id":8000141,"Name":"T\u00FCbingen Hbf","lat":48.515807,"lon":9.05541}
+{"Id":8000134,"Name":"Trier Hbf","lat":49.756849,"lon":6.652449}
+{"Id":8000116,"Name":"Traunstein","lat":47.869725,"lon":12.638797}
+{"Id":8000163,"Name":"Tuttlingen","lat":47.98058,"lon":8.798543}
+{"Id":8000122,"Name":"Treuchtlingen","lat":48.961267,"lon":10.908158}
+{"Id":8005874,"Name":"Timmendorfer Strand","lat":53.994211,"lon":10.762272}
+{"Id":8005927,"Name":"Tutzing","lat":47.907138,"lon":11.272887}
+{"Id":8005902,"Name":"Triberg","lat":48.140004,"lon":8.236807}
+{"Id":8003179,"Name":"Treis-Karden","lat":50.179836,"lon":7.299636}
+{"Id":8005905,"Name":"Trier S\u00FCd","lat":49.744632,"lon":6.636682}
+{"Id":8000135,"Name":"Troisdorf","lat":50.813926,"lon":7.150892}
+{"Id":8602553,"Name":"Tinglev st","lat":54.936173,"lon":9.258233}
+{"Id":8507100,"Name":"Thun","lat":46.754694,"lon":7.629415}
+{"Id":5500009,"Name":"Tatabanya","lat":47.584929,"lon":18.393611}
+{"Id":8303915,"Name":"Tarvisio Boscoverde","lat":46.506358,"lon":13.607214}
+{"Id":8300101,"Name":"Trento","lat":46.072287,"lon":11.118901}
+{"Id":8100060,"Name":"Telfs-Pfaffenhofen","lat":47.300708,"lon":11.078872}
+{"Id":5100230,"Name":"Tarnow","lat":50.005401,"lon":20.97418}
+{"Id":5100072,"Name":"Trzebinia","lat":50.153938,"lon":19.453214}
+{"Id":8602526,"Name":"Taulov st","lat":55.545012,"lon":9.615707}
+{"Id":8300130,"Name":"Treviso Centrale","lat":45.6597,"lon":12.245133}
+{"Id":5100084,"Name":"Terespol","lat":52.074142,"lon":23.601224}
+{"Id":8000170,"Name":"Ulm Hbf","lat":48.399433,"lon":9.982224}
+{"Id":8000168,"Name":"Uelzen","lat":52.969782,"lon":10.553057}
+{"Id":8000171,"Name":"Unna","lat":51.538978,"lon":7.692861}
+{"Id":8400621,"Name":"Utrecht Centraal","lat":52.089397,"lon":5.109864}
+{"Id":8300115,"Name":"Udine","lat":46.055783,"lon":13.242162}
+{"Id":8006053,"Name":"Vaihingen(Enz)","lat":48.948116,"lon":8.957634}
+{"Id":8006076,"Name":"Verden(Aller)","lat":52.920818,"lon":9.237855}
+{"Id":8010355,"Name":"Velgast","lat":54.277317,"lon":12.803138}
+{"Id":8000174,"Name":"Viersen","lat":51.254946,"lon":6.403897}
+{"Id":8000366,"Name":"Villingen(Schwarzw)","lat":48.058022,"lon":8.465259}
+{"Id":8103000,"Name":"Wien Hbf","lat":48.184923,"lon":16.375865}
+{"Id":8196001,"Name":"WIEN","lat":48.207037,"lon":16.341553}
+{"Id":8100147,"Name":"Villach Hbf","lat":46.618625,"lon":13.848539}
+{"Id":8602722,"Name":"Vamdrup st","lat":55.428089,"lon":9.28645}
+{"Id":8300120,"Name":"Verona Porta Nuova","lat":45.42866,"lon":10.982742}
+{"Id":8602887,"Name":"Vojens st","lat":55.248476,"lon":9.304914}
+{"Id":8100081,"Name":"Velden am W\u00F6rther See","lat":46.620054,"lon":14.044836}
+{"Id":5196003,"Name":"WARSZAWA","lat":52.224729,"lon":21.001417}
+{"Id":8602756,"Name":"Vejle st","lat":55.706359,"lon":9.536872}
+{"Id":8396008,"Name":"VENEZIA","lat":45.444427,"lon":12.315491}
+{"Id":8300093,"Name":"Venezia Mestre","lat":45.481903,"lon":12.231901}
+{"Id":8300094,"Name":"Venezia Santa Lucia","lat":45.441397,"lon":12.320462}
+{"Id":8300126,"Name":"Vicenza","lat":45.541097,"lon":11.540774}
+{"Id":5501413,"Name":"Vac","lat":47.782728,"lon":19.133063}
+{"Id":8501605,"Name":"Visp","lat":46.294033,"lon":7.881463}
+{"Id":8400644,"Name":"Venlo","lat":51.364408,"lon":6.171841}
+{"Id":8006552,"Name":"Wolfsburg Hbf","lat":52.429495,"lon":10.787784}
+{"Id":8000266,"Name":"Wuppertal Hbf","lat":51.254362,"lon":7.149544}
+{"Id":8000260,"Name":"W\u00FCrzburg Hbf","lat":49.801795,"lon":9.935777}
+{"Id":8000250,"Name":"Wiesbaden Hbf","lat":50.070788,"lon":8.243729}
+{"Id":8006421,"Name":"Wiesloch-Walldorf","lat":49.291351,"lon":8.664145}
+{"Id":8000377,"Name":"Weinheim(Bergstr)Hbf","lat":49.553306,"lon":8.66535}
+{"Id":8000257,"Name":"Worms Hbf","lat":49.634937,"lon":8.356444}
+{"Id":8000379,"Name":"Wittlich Hbf","lat":49.97312,"lon":6.943556}
+{"Id":8010382,"Name":"Wittenberge","lat":53.003114,"lon":11.762871}
+{"Id":8010361,"Name":"Waren(M\u00FCritz)","lat":53.521513,"lon":12.680678}
+{"Id":8013236,"Name":"Warnem\u00FCnde","lat":54.176854,"lon":12.091273}
+{"Id":8000368,"Name":"Wabern(Bz Kassel)","lat":51.103136,"lon":9.35804}
+{"Id":8000196,"Name":"Warburg(Westf)","lat":51.492953,"lon":9.163846}
+{"Id":8010366,"Name":"Weimar","lat":50.99149,"lon":11.326462}
+{"Id":8010368,"Name":"Wei\u00DFenfels","lat":51.204615,"lon":11.970926}
+{"Id":8000220,"Name":"Weilheim(Oberbay)","lat":47.845365,"lon":11.142858}
+{"Id":8006272,"Name":"Weil am Rhein","lat":47.593972,"lon":7.608416}
+{"Id":8000254,"Name":"W\u00F6rth(Rhein)","lat":49.045676,"lon":8.27315}
+{"Id":8100514,"Name":"Wien Meidling","lat":48.174451,"lon":16.333085}
+{"Id":8100099,"Name":"W\u00F6rgl Hbf","lat":47.491801,"lon":12.060584}
+{"Id":8100014,"Name":"Wels Hbf","lat":48.166082,"lon":14.02657}
+{"Id":8100516,"Name":"Wiener Neustadt Hbf","lat":47.810558,"lon":16.233188}
+{"Id":8506000,"Name":"Winterthur","lat":47.500332,"lon":8.723824}
+{"Id":5100069,"Name":"Wroclaw Glowny","lat":51.098075,"lon":17.037084}
+{"Id":5100065,"Name":"Warszawa Centralna","lat":52.228864,"lon":21.003233}
+{"Id":5100066,"Name":"Warszawa Wschodnia","lat":52.251544,"lon":21.052332}
+{"Id":5100067,"Name":"Warszawa Zachodnia","lat":52.219974,"lon":20.965245}
+{"Id":8100539,"Name":"Werfen","lat":47.4726,"lon":13.195185}
+{"Id":8200340,"Name":"Wasserbillig","lat":49.712829,"lon":6.499354}
+{"Id":8100003,"Name":"Wien Westbahnhof","lat":48.196915,"lon":16.337247}
+{"Id":8271080,"Name":"Wecker","lat":49.700091,"lon":6.387366}
+{"Id":8010396,"Name":"Z\u00FCssow","lat":53.973877,"lon":13.548191}
+{"Id":8596008,"Name":"Z\u00DCRICH","lat":47.378968,"lon":8.540534}
+{"Id":8503000,"Name":"Z\u00FCrich HB","lat":47.378177,"lon":8.540211}
+{"Id":8503016,"Name":"Z\u00FCrich Flughafen","lat":47.450388,"lon":8.562405}
+{"Id":8100048,"Name":"Zell am See","lat":47.32052,"lon":12.796567}
+{"Id":5100056,"Name":"Zoppot-","lat":54.440166,"lon":18.56232}
+{"Id":8400747,"Name":"Zwolle","lat":52.505624,"lon":6.089904}
+{"Id":7800020,"Name":"Zagreb Glavni kolodvor","lat":45.804436,"lon":15.978704}
+{"Id":7900004,"Name":"Zidani Most","lat":46.085582,"lon":15.170322}

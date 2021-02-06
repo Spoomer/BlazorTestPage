@@ -1,32 +1,64 @@
 @page "/apiclienttest"
 @using BlazorTestPage.Api;
 @using BlazorTestPage.Models;
-<h1>Calling an API</h1>
-<button @onclick="GetStations">Hole Stationen</button>
-@if (DbStationModels != default(List<DBStationModel>))
+@using BlazorTestPage.Components;
+
+<h1>DB-API-Calling</h1>
+Klick auf die Station um Abfahrten zu sehen
+@if (dBStationProcessor?.StationList != default(List<DBStationModel>))
 {
-    <table>
-        <th>ID</th>
-        <th>Name</th>
-        @foreach (var dBStation in DbStationModels)
+    <table class="table table-striped">
+        <th scope="col">ID</th>
+        <th scope="col">Name</th>
+        <tbody>
+        @foreach (var dBStation in dBStationProcessor.StationList)
         {
+            
             <tr>
-                <td Margin="5">@dBStation.Id</td>
+                <td Margin="5" @onclick=@(()=>{clickedId=dBStation.Id;stationClicked=!stationClicked;})>@dBStation.Id</td>
                 <td Margin="5">@dBStation.Name</td>
             </tr>
+            @if(clickedId==dBStation.Id && stationClicked==true)
+            {
+
+                <tr>
+                    <DepartureBoard Id=@dBStation.Id/>
+                </tr>
+            }
         }
+        </tbody>
     </table>
 }
 @code {
-    private List<DBStationModel> DbStationModels;
-
+    private DBStationProcessor dBStationProcessor;
+    private int clickedId = 0;
+    private bool stationClicked = false;
     protected override void OnInitialized()
     {
-        DbStationModels = new List<DBStationModel>();
+        dBStationProcessor = new();
     }
     private async Task GetStations()
     {
-        DBStationProcessor dBStationProcessor = new();
-        DbStationModels = await dBStationProcessor.GetStationDataOrDefault("a");
+        for (var i = 97; i < 123; i++)
+        {
+            var letter = (char)i;
+            var stationsFromApi = await dBStationProcessor.GetStationData(letter.ToString());
+
+            foreach (var station in stationsFromApi)
+            {
+                dBStationProcessor.UpdateOrAddStation(station);
+            }
+            if (i==106 || i==115)
+            {
+                DateTime begin = DateTime.Now;
+                while(true)
+                {
+                    if (DateTime.Now-begin>=TimeSpan.FromMinutes(1)) break;
+                }
+            }
+        }
+        dBStationProcessor.SaveDataToJson();
+
+        
     }
 }

@@ -1,0 +1,35 @@
+@using Models
+@using Api
+<table class="table table-striped">
+    <thead>
+        <th>Name</th>
+        <th>Typ</th>
+        <th>Gleis</th>
+        <th>Abfahrt</th>
+    </thead>
+    <tbody>
+        @foreach (var item in DepatureBoardList)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Type</td>
+                <td>@item.Track</td>
+                <td>@item.DepartureTime</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code
+{
+    [Parameter]
+    public int Id { get; set; }
+    private List<DepartureBoardModel> DepatureBoardList = new();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        await base.OnParametersSetAsync();
+        DepatureBoardList = await (new DBDepatureBoardProcessor()).GetDepatureBoardModels(Id);
+    }
+
+}
